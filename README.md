@@ -1,3 +1,6 @@
+題目 
+https://hackmd.io/@wycchen/1102ALCO_project1
+
 將5,21,11,2,1 放入saved registers
 輸入一整數 放入 a0
 進入function
