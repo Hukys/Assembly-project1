@@ -41,3 +41,4 @@ Input a number:
 -1
 The damage:
 -1
+
